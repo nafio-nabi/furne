@@ -27,13 +27,6 @@
     margin-bottom: 5%;
 }
 
-.custom-padding-left {
-    padding-left: 10%;
-}
-
-.custom-padding-right {
-    padding-right: 10%;
-}
 
 .divider {
     display: block;
@@ -41,6 +34,14 @@
     height: 1px;
     background: #222;
     margin: 1% auto;
+}
+
+.small-divider {
+    display: inline-block;
+    width: 50px;
+    height: 1px;
+    background: #222;
+    margin: 3% auto;
 }
 
 .divider-white {
@@ -66,4 +67,43 @@
 .custom-nav-bg-color {
     background-color: #b17447 !important;
 }
+
+/* Paddings */
+
+.custom-padding-left {
+    padding-left: 10%;
+}
+
+.custom-padding-right {
+    padding-right: 10%;
+}
+
+/* .custom-padding-left-1 {
+    padding-left: 15%;
+}
+
+.custom-padding-right-1 {
+    padding-right: 15%;
+} */
+
+/* Colors */
+
+.shop-custom-nav-bg-color {
+    background-color: #EFEFEF !important;
+}
+
+.shop-custom-jumbotron-bg-color {
+    background-color: #e7e1d8 !important;   
+}
+
+.custom-range::-webkit-slider-thumb {
+    background: #222;
+  }
   
+.custom-range::-moz-range-thumb {
+    background: #222;
+}
+
+.custom-range::-ms-thumb {
+    background: #222;
+}

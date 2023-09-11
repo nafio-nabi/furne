@@ -1,0 +1,54 @@
+@media (max-width: 576px) {
+    .first-nav-item {
+        font-size: 40%;
+    }
+
+    .logo-section-sm-margin-1 {
+        margin-top: 7%;
+    }
+
+    .sm-bottom-margin-1 {
+        margin-bottom: 5%;
+    }
+
+    #blog-bg-color {
+        background: linear-gradient(#E7E1D8 35%, transparent 20%) no-repeat !important;
+    }
+
+    .sm-padding-right-1 {
+        padding-right: 0;
+    }
+
+    #furne-logo-footer {
+        width: 25%;
+    }
+
+    .sm-mt-1 {
+        margin-top: 5%;
+    }
+
+    .sm-h {
+        font-size: 150%;
+        margin-bottom: 5% !important;
+    }
+
+    .sm-h-1 {
+        font-size: 75% !important;
+    }
+
+    .sm-p {
+        display: none;
+    }
+
+    .content {
+        position: absolute;
+        left: 50%;
+        top: 105%;
+        -webkit-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+      }
+
+    .sm-btn-1 {
+        font-size: small;
+    }
+}

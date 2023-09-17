@@ -51,4 +51,53 @@
     .sm-btn-1 {
         font-size: small;
     }
+
+    .sm-btn-2 {
+        font-size: x-small;
+    }
+
+    .custom-p-font-size-1 {
+        font-size: 0.6rem;
+    }
+
+    .custom-p-font-size-2 {
+        font-size: 0.6rem !important;
+    }
+
+    .custom-p-font-size-3 {
+        font-size: 0.5rem !important;
+    }
+
+    .custom-h-size-1 {
+        font-size: 0.9rem !important;
+    }
+
+    .custom-h-size-2 {
+        font-size: 0.6rem !important;
+    }
+
+    .custom-margin-top-1 {
+        margin-top: 0 !important;
+    }
+
+    .custom-margin-top-2 {
+        margin-top: 75% !important;
+    }
+
+    .custom-margin-top-3 {
+        margin-top: 25% !important;
+    }
+
+    .custom-margin-bottom-1 {
+        margin-top: 0 !important;
+    }
+
+    .custom-margin-bottom-2 {
+        margin-top: 10% !important;
+    }
+
+    .custom-display {
+        display: none;
+    }
+
 }

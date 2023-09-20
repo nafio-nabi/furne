@@ -36,6 +36,14 @@
     margin: 1% auto;
 }
 
+.divider-light {
+    display: block;
+    width: 125px;
+    height: 1px;
+    background: #A1A1A1;
+    margin: 5% 0;
+}
+
 .small-divider {
     display: inline-block;
     width: 50px;

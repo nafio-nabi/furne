@@ -100,4 +100,16 @@
         display: none;
     }
 
+    .sm-margin-1 {
+        margin-top: 0 !important;
+    }
+
+    .sm-padding-1 {
+        padding-bottom: 0 !important;
+    }
+
+    .sm-padding-2 {
+        padding-top: 0 !important;
+    }
+
 }
